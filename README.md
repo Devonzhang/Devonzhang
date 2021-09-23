@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devonzhang
-- 👀 I’m interested in data/frontend
-- 🌱 I’m currently learning C#/JAVA/JavaScript
+- 👀 I’m interested in data/backend
+- 🌱 I’m currently learning Kotlin/JAVA/Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : e-mail devonzhang1024@gmail.com
 
